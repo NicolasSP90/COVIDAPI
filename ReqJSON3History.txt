@@ -1,0 +1,95 @@
+	{	
+	'get': 'history', 
+	'parameters': 	
+		{
+		'country': 'brazil', 
+		'day': '2022-02-02'
+		}, 
+	'errors': [], 
+	'results': 3, 
+	'response': 
+		[
+			{
+			'continent': 'South-America', 
+			'country': 'Brazil', 
+			'population': 214953059, 
+			'cases': 
+				{
+				'new': '+167979', 
+				'active': 2810791, 
+				'critical': 8318, 
+				'recovered': 22353361, 
+				'1M_pop': '119994', 
+				'total': 25793112
+				}, 
+			'deaths': 
+				{
+				'new': '+828', 
+				'1M_pop': '2926', 
+				'total': 628960
+				}, 
+			'tests': 
+				{
+				'1M_pop': '296698', 
+				'total': 63776166
+				}, 
+			'day': '2022-02-02', 
+			'time': '2022-02-02T23:30:02+00:00'
+			}, 
+
+			{
+			'continent': 'South-America', 
+			'country': 'Brazil', 
+			'population': 214953059, 
+			'cases': 
+				{
+				'new': '+171028', 
+				'active': 2643640, 
+				'critical': 8318, 
+				'recovered': 22353361, 
+				'1M_pop': '119213', 
+				'total': 25625133
+				}, 
+			'deaths': 
+				{
+				'new': '+767', 
+				'1M_pop': '2922', 
+				'total': 628132
+				}, 
+			'tests': 
+				{
+				'1M_pop': '296698', 
+				'total': 63776166
+				}, 
+			'day': '2022-02-02', 
+			'time': '2022-02-02T21:15:02+00:00'
+			}, 
+
+			{
+			'continent': 'South-America', 
+			'country': 'Brazil', 
+			'population': 214948937, 
+			'cases': 
+				{
+				'new': '+171028', 
+				'active': 2643640, 
+				'critical': 8318, 
+				'recovered': 22353361, 
+				'1M_pop': '119215', 
+				'total': 25625133
+				}, 
+			'deaths': 
+				{
+				'new': '+767', 
+				'1M_pop': '2922', 
+				'total': 628132
+				}, 
+			'tests': 
+				{'1M_pop': '296704', 
+				'total': 63776166
+				}, 
+			'day': '2022-02-02', 
+			'time': '2022-02-02T00:00:02+00:00'
+			}
+		]
+	}

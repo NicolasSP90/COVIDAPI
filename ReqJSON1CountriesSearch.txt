@@ -1,0 +1,5 @@
+{	"get":	"countries", 
+	"parameters":	{"search":"bra"},
+	"errors":[]
+	"results":2
+	"response":	[0:"Brazil", 1:"Gibraltar"] }

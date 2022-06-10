@@ -1,0 +1,37 @@
+{	'get': 'statistics', 
+	'parameters': 	
+		{
+		'country': 'brazil'
+		}, 
+	'errors': [], 
+	'results': 1, 
+	'response':
+		[
+			{	'continent': 'South-America', 
+				'country': 'Brazil', 
+				'population': 215439455, 
+				'cases': 
+					{
+					'new': '+24082', 
+					'active': 339785, 
+					'critical': 8318, 
+					'recovered': 29971308, 
+					'1M_pop': '143788', 
+					'total': 30977661
+					}, 
+				'deaths':
+					{
+					'new': '+72', 
+					'1M_pop': '3094', 
+					'total': 666568
+					}, 
+				'tests': 
+					{
+					'1M_pop': '296028', 
+					'total': 63776166
+					}, 
+				'day': '2022-05-31', 
+				'time': '2022-05-31T00:15:03+00:00'
+			}
+		]
+}

@@ -1,0 +1,35 @@
+Desafio Owntec: Desenvolver uma aplicação utilizando o Console do Python.
+
+Objetivo: Visualizar informações do COVID-19 utilizando uma API
+
+Requisitos: Utilizar a COVID-19 API (https://rapidapi.com/api-sports/api/covid-193/). A aplicação deve possuir 6 opções principais:
+
+1. Listar todos os países disponíveis na API;
+2. Pesquisar por países disponíveis na API;
+
+3. Visualizar os dados de um país específico;
+5. Visualizar os dados do mundo todo;
+
+4. Visualizar os dados de um país específico em uma data específica;
+6. Visualizar os dados do mundo todo em uma data específica;
+
+Ao realizar a pesquisa (por "bra", por exemplo), deve aparecer todos os países contendo (exemplo: Brazil, Gibraltar).
+Deve ser possível buscar dados de países pelo nome. Os dados que devem ser apresentados:
+
+• Data da última atualização
+
+• Número de casos confirmados
+• Número de casos ativos
+• Número de casos críticos
+• Número de recuperados
+• Número de novos casos
+• Número de casos por milhão
+
+• Número de mortes totais
+• Número de novas mortes
+• Número de mortes por milhão
+
+• Número de testes realizados
+• Número de testes por milhão
+
+Outras informações podem ser apresentadas à seu gosto. Como elas serão apresentadas é por sua conta.
