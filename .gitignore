@@ -1,4 +1,6 @@
-MainInformationAPI
+.gitignore
+MainInformationAPI.py
+MainInformationAPIME.py
 venv
 __pycache__
 .idea
