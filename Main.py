@@ -21,6 +21,7 @@ while startmenu:
               "\n2- Pesquisar dados atuais sobre COVID.",
               "\n3- Pesquisar dados sobre COVID em data específica."
               "\n4- Sair.")
+        menuoption = int(input())
 
     # Opção de encerrar o programa
     if menuoption == 4:
